@@ -1,155 +1,15 @@
-Package: com.chpwn.iphone.cydia.hooks-law
-Version: 1.0.1-1
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/hookslaw.deb
-Size: 1240
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: Animaciones con efecto de rebote tipo spring.
-Name: Hooks Law
-Author: chpwn
-
-Package: libactivator
-Version: 1.9.13
-Section: System
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/activator.deb
-Size: 4500
-MD5sum: c301ab24d0d48f37fd857d38b5fc50f3
-Description: El mejor gestor de gestos y accesos directos.
-Name: Activator
-Author: Ryan Petrich
-
-Package: net.angelxwind.appsyncunified
-Version: 84.0
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/appsync.deb
-Size: 5600
-MD5sum: a181ab24d0d48f37fd857d38b5fc50f1
-Description: Permite instalar aplicaciones (.ipa) sin firmar.
-Name: AppSync Unified
-Author: Karen/angelXwind
-
 Package: com.r333d.cylinder
 Version: 1.1
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
 Architecture: iphoneos-arm
 Filename: ./debs/cylinder.deb
 Size: 1240
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: Animaciones increibles para tus iconos.
+Description: Animaciones para los iconos.
 Name: Cylinder
-Author: r333d
-
-Package: eu.heinelt.ifile
-Version: 2.2.0-1
-Section: System
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/ifile.deb
-Size: 9800
-MD5sum: b291ab24d0d48f37fd857d38b5fc50f2
-Description: El gestor de archivos definitivo con acceso root.
-Name: iFile
-Author: Carsten Heinelt
-
-Package: com.alexzielenski.zeppelin
-Version: 2.1.0-12
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/zeppelin.deb
-Size: 2500
-MD5sum: d412bc35e46ef890f567g901h67i8902
-Description: Cambia el logo del operador por iconos personalizados.
-Name: Zeppelin
-Author: Alex Zielenski
-
-Package: com.skyglow.itunesstorex
-Version: 3.2
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/itunesstorex.deb
-Size: 1500
-MD5sum: e523cd46f57fg901h67i8902j78k9013
-Description: Arregla la conexion con iTunes Store en iOS viejo.
-Name: iTunesStoreX
-Author: SkyGlow
-
-Package: com.skyglow.weatherx
-Version: 3.4
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/weatherx.deb
-Size: 1800
-MD5sum: f634de57g68gh012i78j9013k89l0124
-Description: Arregla la aplicacion de Clima en iOS 6.
-Name: WeatherX
-Author: SkyGlow
 
 Package: net.angelxwind.appsyncunified
 Version: 84.0
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
 Architecture: iphoneos-arm
 Filename: ./debs/appsync.deb
 Size: 5600
-MD5sum: a181ab24d0d48f37fd857d38b5fc50f1
-Description: Permite instalar aplicaciones (.ipa) sin firmar.
+Description: Instalar apps sin firma.
 Name: AppSync Unified
-Author: Karen/angelXwind
-
-Package: eu.heinelt.ifile
-Version: 2.2.0-1
-Section: System
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/ifile.deb
-Size: 9800
-MD5sum: b291ab24d0d48f37fd857d38b5fc50f2
-Description: El gestor de archivos definitivo con acceso root.
-Name: iFile
-Author: Carsten Heinelt
-
-Package: com.alexzielenski.zeppelin
-Version: 2.1.0-12
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/zeppelin.deb
-Size: 2500
-MD5sum: d412bc35e46ef890f567g901h67i8902
-Description: Cambia el logo del operador por iconos personalizados.
-Name: Zeppelin
-Author: Alex Zielenski
-
-Package: com.skyglow.itunesstorex
-Version: 3.2
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/itunesstorex.deb
-Size: 1500
-MD5sum: e523cd46f57fg901h67i8902j78k9013
-Description: Arregla la conexion con iTunes Store en iOS viejo.
-Name: iTunesStoreX
-Author: SkyGlow
-
-Package: com.skyglow.weatherx
-Version: 3.4
-Section: Tweaks
-Maintainer: Nico <nico@example.com>
-Architecture: iphoneos-arm
-Filename: ./debs/weatherx.deb
-Size: 1800
-MD5sum: f634de57g68gh012i78j9013k89l0124
-Description: Arregla la aplicacion de Clima en iOS 6.
-Name: WeatherX
-Author: SkyGlow
