@@ -1,15 +1,23 @@
-Package: com.r333d.cylinder
-Version: 1.1
+Package: com.chpwn.weeloader
+Version: 5
 Architecture: iphoneos-arm
-Filename: ./debs/cylinder.deb
-Size: 1240
-Description: Animaciones para los iconos.
-Name: Cylinder
+Filename: https://albyvar.github.io/legacyrepo/debs/weeloader-ios5.deb
+Size: 3528
+Description: Weeloader for iOS 5.x
+Name: Weeloader for iOS 5.x
 
-Package: net.angelxwind.appsyncunified
-Version: 84.0
+Package: com.jamied360.ncsettings
+Version: 5
 Architecture: iphoneos-arm
-Filename: ./debs/appsync.deb
-Size: 5600
-Description: Instalar apps sin firma.
-Name: AppSync Unified
+Filename: https://albyvar.github.io/legacyrepo/debs/ncsett5.deb
+Size: 390398
+Description: NCSettings is a sleek Notification Center toggle widget
+Name: NCSettings for iOS 5
+
+Package: albyvar.ipadplus
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: https://albyvar.github.io/legacyrepo/debs/albyvar.ipadplus.deb
+Size: 51008268
+Description: iPhone apps & widgets on iPad
+Name: iPadPlus for iOS 6.1.x
